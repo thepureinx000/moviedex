@@ -40,4 +40,4 @@ const App = (): React.Element<*> => (
   </div>
 )
 
-export default App;
+export default App
